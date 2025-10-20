@@ -38,5 +38,10 @@ sudo ipset test blocked[4/6] [ip]
 # e.g. sudo ipset test blocked4 1.1.1.1
 ```
 
+## Licensing
+
+> Redblock uses IP geolocation data derived from DB-IP (db-ip.com), licensed under CC BY 4.0. This information is provided in a transformed and non-identifying format. The Redblock codebase and API are released into the public domain (CC0).
+
 ## Download
 You may download the list from [https://cdn.dispherical.com/redblock/list.txt](https://cdn.dispherical.com/redblock/list.txt).
+
